@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CatEagleWalkingLeft-SpriteSheet_0: -6823262604326896658
+      CatEagleWalkingLeft-SpriteSheet_1: -1112646471401509940
+      CatEagleWalkingLeft-SpriteSheet_2: -1270022911725605470
+      CatEagleWalkingLeft-SpriteSheet_3: -3629502431738803690
+      CatEagleWalkingLeft-SpriteSheet_4: -7303406609554555596
+      CatEagleWalkingLeft-SpriteSheet_5: 4984525521058523252
+      CatEagleWalkingLeft-SpriteSheet_6: 472452419788797350
+      CatEagleWalkingLeft-SpriteSheet_7: 5338445451088645331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

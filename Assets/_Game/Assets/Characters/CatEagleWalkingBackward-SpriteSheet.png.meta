@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CatEagleWalkingBackward-SpriteSheet_0: -1686277527389249104
+      CatEagleWalkingBackward-SpriteSheet_1: -1743279188072048321
+      CatEagleWalkingBackward-SpriteSheet_2: -6260131832998193004
+      CatEagleWalkingBackward-SpriteSheet_3: -96368565230668277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
