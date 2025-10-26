@@ -11,13 +11,10 @@ public class CameraFollow : MonoBehaviour
     {
         if (target == null) return;
         
-        // Calculate desired position
         Vector3 desiredPosition = target.position + offset;
         
-        // Smoothly interpolate between current and desired position
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
         
-        // Apply the position
         transform.position = smoothedPosition;
     }
 }
